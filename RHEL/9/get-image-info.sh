@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 LOCATION="uksouth"
-PUBLISHER="Debian"
-OFFER="debian-10"
+PUBLISHER="RedHat"
+OFFER="RHEL"
 VERSION="Latest"
-SKU="13-daily"
+SKU="9"
 
 ###
 

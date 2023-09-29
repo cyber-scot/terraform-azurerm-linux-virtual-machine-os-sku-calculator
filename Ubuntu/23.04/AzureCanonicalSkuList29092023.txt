@@ -1,0 +1,5 @@
+Location    Name
+----------  -----------
+uksouth     23_04
+uksouth     23_04-arm64
+uksouth     23_04-gen2

@@ -1,0 +1,7 @@
+Location    Name
+----------  ------------------------------------
+uksouth     flatcar-container-linux
+uksouth     flatcar-container-linux-corevm
+uksouth     flatcar-container-linux-corevm-amd64
+uksouth     flatcar-container-linux-free
+uksouth     flatcar_pro

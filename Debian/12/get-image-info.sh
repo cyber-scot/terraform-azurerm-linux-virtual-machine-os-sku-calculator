@@ -2,9 +2,9 @@
 
 LOCATION="uksouth"
 PUBLISHER="Debian"
-OFFER="debian-10"
+OFFER="debian-12"
 VERSION="Latest"
-SKU="13-daily"
+SKU="12"
 
 ###
 

@@ -1,0 +1,5 @@
+Location    Name
+----------  --------
+uksouth     12
+uksouth     12-arm64
+uksouth     12-gen2

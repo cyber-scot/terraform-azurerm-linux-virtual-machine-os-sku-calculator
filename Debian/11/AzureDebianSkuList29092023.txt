@@ -1,0 +1,7 @@
+Location    Name
+----------  ------------------
+uksouth     11
+uksouth     11-backports
+uksouth     11-backports-arm64
+uksouth     11-backports-gen2
+uksouth     11-gen2

@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 LOCATION="uksouth"
-PUBLISHER="Debian"
-OFFER="debian-10"
+PUBLISHER="Canonical"
+OFFER="0001-com-ubuntu-server-lunar"
 VERSION="Latest"
-SKU="13-daily"
+SKU="23.04-LTS"
 
 ###
 

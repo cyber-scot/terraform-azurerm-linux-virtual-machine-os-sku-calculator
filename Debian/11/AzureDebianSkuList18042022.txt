@@ -1,4 +1,0 @@
-Location    Name
-----------  -------
-uksouth     11
-uksouth     11-gen2
